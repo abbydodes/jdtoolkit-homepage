@@ -5,7 +5,7 @@ body {
 	font-size: 20px;
 	padding: 2em;
 	text-align: center;
-	font-family: "Times New Roman", "Helvetica", "Arial", sans-serif;
+	font-family:'Roboto Condensed', sans-serif;
 	color: #bbf58a;
 }
 
@@ -15,7 +15,7 @@ h1 {
 }
 
 p, ul {
-	font-family: "Times New Roman", serif;
+	font-family: 'Roboto Condensed', serif;
 	color: ##bbf58a;
 	max-width: 30em;
 	width: 100%;
